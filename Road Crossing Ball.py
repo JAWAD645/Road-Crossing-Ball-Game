@@ -326,12 +326,12 @@ def showScreen():
         if obs_flag:
             generate_obstacle(level)
     obs_flag = False
-    # //////////////////////////////////////////
+    # //////////////////////////////////////
     # creting obstacles
     for i, j in obstacles.items():
         if i!='stop':
             lala = controller_line(j['points'])
-    # ////////////////////////////////////////////
+    # ////////////////////////////////////////
     # buttons
     reset=controller_line([[30,490],[10,480],[30,470],[10,480],[50,480],[10,480]])
      
@@ -344,7 +344,7 @@ def showScreen():
         
     exit=controller_line([[460,490],[480,470]])
     exit=controller_line([[460,470],[480,490]])
-    # ///////////////////////////////////////////////
+    # ///////////////////////////////////////////
     # creating player
     if lives!=0:
         player = controller_circle(player_pos[0], player_pos[1], 10)
