@@ -67,15 +67,18 @@ This project demonstrates:
 
 ## 🖼 Image Previews
 
-*(Add your screenshots or GIFs here)*
 
-Example:
+Start:
 
-```
-![Road Crossing Ball Screenshot](images/road_crossing_screenshot.png)
-![Game Over Screen](images/game_over.png)
-```
+<img src="https://github.com/JAWAD645/Road-Crossing-Ball-Game/blob/9eab839ddbdf8751f5e1e3c8c272eb60f7784188/RCB_Start.png" alt="Game Screenshot" width="400">
 
+End:
+
+<img src="https://github.com/JAWAD645/Road-Crossing-Ball-Game/blob/9eab839ddbdf8751f5e1e3c8c272eb60f7784188/RCB_End.png" alt="Game Screenshot" width="400">
+
+Play this demo:
+
+<img src="https://github.com/JAWAD645/Road-Crossing-Ball-Game/blob/2ab9e20dcc3a471bd53aff6bad0cc19f1bea5f7e/Overview%20of%20the%20project.gif" alt="Game Screenshot" width="400">
 
 
 ## 📥 Installation & Running
